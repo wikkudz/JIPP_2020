@@ -1,0 +1,8 @@
+Ilosc wierszy: 6
+Ilosc kolumn: 4
+5.3	0	0	0	
+0	0	0	0	
+0	0	5.3	0	
+0	0	0	0	
+0	0	0	0	
+0	0	0	0	
